@@ -1,3 +1,5 @@
 # Replace the below email and name with your own!
 !git config --global user.email "slatterysmail@gmail.com"
 !git config --global user.name "RedMinstrel"
+
+!ssh-keygen -P '' -t ed25519 -f /root/.ssh/id_ed25519
